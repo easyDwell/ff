@@ -1,0 +1,531 @@
+[Default Sites Software Archives NCSA]
+Created=36922.5216924306
+IP=ftp.ncsa.uiuc.edu
+Port=21
+Notes=The National Center for Supercomputer Applications
+Options=300333300003
+anonymous=1
+
+[Default Sites Commercial Sites Intel]
+Created=36922.5237859491
+IP=ftp.intel.com
+Port=21
+Notes=Intel files and support.
+Options=300333300003
+anonymous=1
+
+[Default Sites Game Sites Sierra On-Line, Inc.]
+Created=36922.5246148032
+IP=ftp.sierra.comftp1.sierra.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Path=/pub/
+
+[Default Sites Government Sites Federal Communications Commission (FCC)]
+Created=38186.9485929745
+IP=ftp.fcc.gov
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Path=/pub/
+
+[Default Sites Government Sites Internal Revenue Service (IRS)]
+Created=38186.9768165394
+IP=ftp.irs.gov
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Path=/pub/
+
+[Default Sites Government Sites Securities and Exchange Commission (SEC)]
+Created=38186.9812874421
+IP=ftp.sec.gov
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Path=/pub/
+
+[Default Sites Government Sites National Center for Biotechnology Information (NCBI)]
+IP=ftp.ncbi.nih.gov
+Port=21
+User=anonymous
+anonymous=1
+Options=300333300003300110300001000
+Created=38186.9954378819
+Pass=
+
+[Default Sites Government Sites National Space Science Data Center of NASA (Planetary Images)]
+Created=38187.0099256134
+IP=nssdcftp.gsfc.nasa.gov
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Path=/
+Notes=Planetary imagery and other spacy stuff!National Space Science Data Center FTP ofNASA Goddard Space Flight CenterGreenbelt, MD 20771, USAhttp://nssdc.gsfc.nasa.gov/
+
+[Default Sites Government Sites Centers for Disease Control and Prevention (CDC)]
+IP=ftp.cdc.gov
+Port=21
+User=anonymous
+anonymous=1
+Path=/
+Options=300333300003300110300001000
+Created=38187.0270612384
+Pass=
+
+[Default Sites Government Sites Fermi National Accelerator Labratory]
+IP=ftp.fnal.gov
+Port=21
+anonymous=1
+Path=/pub/
+Options=300333300003300110300001000
+Created=38187.0355555208
+Notes=Fermilab, a national science laboratory of the Department of Energy's Office of Science and the home of the Tevatron, the world's most powerful particle accelerator.
+
+[Default Sites Game Sites Blizzard Entertainment]
+Created=38187.086240787
+IP=ftp.blizzard.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Path=/pub/
+
+[Default Sites Game Sites Electronic Arts]
+Created=38187.0875813657
+IP=ftp.ea.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Path=/pub/
+
+[Default Sites Game Sites ID Software]
+Created=38187.0881867477
+IP=ftp.idsoftware.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Path=/idstuff/
+
+[Default Sites Commercial Sites Alchemy Mindworks]
+IP=mindworkshop.comftp.mindworkshop.org
+Port=21
+anonymous=1
+Path=/pub/
+Options=300333300003300110300001000
+Created=38187.2146119444
+Notes=Animate your web
+
+[Default Sites Web Browsers Firefox]
+IP=ftp.mozilla.org
+Port=21
+anonymous=1
+Path=/pub/mozilla.org/firefox/
+Options=300333300003300110300001000
+Created=38187.2268746065
+Notes=Mozilla Firefox :: Take Back The Web!Formerly known as FirebirdFormerly known as Pheonix
+
+[Default Sites Web Browsers Opera]
+IP=ftp.opera.com
+Port=21
+User=anonymous
+anonymous=1
+Options=300333300003300110300001000
+Created=38187.2293877083
+Pass=
+Path=/pub/opera/
+
+[Default Sites Web Browsers Netscape]
+IP=ftp.netscape.com
+Port=21
+User=anonymous
+anonymous=1
+Options=300333300003300110300001000
+Created=38187.2319914468
+Pass=
+Path=/pub/
+
+[Default Sites Web Browsers Lynx]
+IP=lynx.isc.orgftp.us.browser.org
+Port=21
+anonymous=1
+Path=/
+Options=300333300003300110300001000
+Created=38187.233529537
+Notes=meow.
+
+[Default Sites Web Browsers Amaya]
+IP=ftp.w3.org
+Port=21
+anonymous=1
+Path=/pub/amaya/
+Options=300333300003300110300001000
+Created=38187.248686875
+Notes=Amaya is the W3C's combination Browser / Editor.  Give it a try!
+
+[Default Sites Miscellaneous Sites Twenty-Six Hundred]
+IP=ftp.2600.com
+Port=21
+anonymous=1
+Path=/
+Options=300333300003300110300001000
+Created=38187.2718523611
+Notes=beep.
+
+[Default Sites Commercial Sites Ahead Software]
+Created=38187.2793099537
+IP=ftp.us.nero.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+
+[Default Sites Commercial Sites Borland]
+Created=38187.2799637847
+IP=ftp.borland.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Path=/pub/
+
+[Default Sites Commercial Sites Corel]
+Created=38187.2800607986
+IP=ftp.corel.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+
+[Default Sites Commercial Sites Forte Agent]
+Created=38187.2801731134
+IP=ftp.forteinc.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+
+[Default Sites Commercial Sites IDM Computer Solutions]
+Created=38187.2802778935
+IP=ftp.ultraedit.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Notes=Ultra Edit
+
+[Default Sites Commercial Sites Kaspersky Labs]
+Created=38187.2803433796
+IP=ftp.kaspersky.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Notes=Kapersky, formerly known as AVP Anti-Virus
+
+[Default Sites Commercial Sites McAfee]
+Created=38187.2804369213
+IP=ftp.mcafee.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Notes=McAfee, a popular Anti-Virus application
+
+[Default Sites Commercial Sites Novell]
+Created=38187.2805662731
+IP=ftp.novell.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+
+[Default Sites Commercial Sites Pegasus]
+Created=38187.2806503125
+IP=risc.ua.edu
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Path=/pub/
+
+[Default Sites Commercial Sites Qualcomm]
+Created=38187.2807133565
+IP=ftp.qualcomm.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Notes=Makers of Eudora email client
+
+[Default Sites Commercial Sites Rar Labs]
+Created=38187.2808261343
+IP=ftp.rarlabs.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Notes=Where WinRAR was born
+
+[Default Sites Commercial Sites Symantec]
+Created=38187.2808861806
+IP=ftp.symantec.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Notes=Makers of Norton Anti-Virus
+
+[Default Sites Commercial Sites WinZip]
+Created=38187.2809981481
+IP=ftp.winzip.com
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+
+[Default Sites Commercial Sites BreakPoint Software]
+IP=ftp.bpsoft.com
+Port=21
+anonymous=1
+Path=/
+Options=300333300003300110300001000
+Created=38187.3054255208
+Notes=Hex Workshop
+
+[Default Sites Commercial Sites Sausage Software]
+IP=ftp.sausage.com
+Port=21
+User=anonymous
+anonymous=1
+Options=300333300003300110300001000
+Created=38187.7655758333
+Pass=
+Path=/pub/
+
+[Default Sites Web Browsers Mosaic]
+IP=ftp.ncsa.uiuc.edu
+Port=21
+anonymous=1
+Options=300333300003300110300001000
+Created=38187.7738727199
+Path=/Mosaic/
+
+[Default Sites Software Archives Sunet Sweden]
+IP=ftp.sunet.se
+Port=21
+anonymous=1
+Options=300333300003300110300001000
+Created=38187.7971208449
+Notes=Software and image archive
+
+[Default Sites Operating Systems Linux Distributions Debian]
+Created=38187.9604907176
+IP=ftp.us.debian.org
+Port=21
+Path=/debian/
+Notes=http://www.debian.org/
+Options=300333300003300110300001000
+anonymous=1
+
+[Default Sites Operating Systems BSD Distributions FreeBSD]
+Created=38187.96065125
+IP=ftp.freebsd.org
+Port=21
+Path=/pub/
+Notes=http://www.freebsd.org/ 
+Options=300333300003300110300001000
+anonymous=1
+
+[Default Sites Operating Systems Linux Distributions Lycoris]
+Created=38187.9608506134
+IP=ibiblio.org
+Port=21
+Path=/pub/linux/distributions/lycoris
+Notes=http://www.lycoris.com/
+Options=300333300003300110300001000
+anonymous=1
+
+[Default Sites Operating Systems Linux Distributions Red Hat]
+Created=38187.9610503241
+IP=ftp.redhat.com
+Port=21
+Path=/pub/
+Notes=http://www.redhat.com/
+Options=200333300003300110300001000
+anonymous=1
+
+[Default Sites Operating Systems Linux Distributions Slackware]
+Created=38187.9612897801
+IP=ftp.slackware.com
+Port=21
+Path=/pub/
+Notes=http://www.slackware.com/
+Options=300333300003300110300001000
+anonymous=1
+
+[Default Sites Operating Systems Linux Distributions SuSE]
+Created=38187.9614332755
+IP=ftp.suse.com
+Port=21
+Path=/pub/
+Notes=http://www.suse.com/
+Options=300333300003300110300001000
+anonymous=1
+
+[Default Sites Operating Systems Linux Distributions Damn Small Linux]
+Created=38187.961673669
+IP=sunsite.unc.edu
+Port=21
+Path=/pub/linux/distributions/damnsmall/
+Notes=http://www.damnsmalllinux.org/
+Options=300333300003300110300001000
+anonymous=1
+
+[Default Sites Operating Systems Linux Distributions Gentoo]
+Created=38187.9617865625
+IP=sunsite.unc.edu
+Port=21
+Options=300333300003300110300001000
+anonymous=1
+Path=/pub/linux/distributions/gentoo/
+Notes=http://www.gentoo.org/
+
+[Default Sites Operating Systems Linux Distributions Knoppix]
+Created=38187.9620997454
+IP=sunsite.unc.edu
+Port=21
+Path=/pub/linux/distributions/knoppix/
+Notes=http://www.knopper.net/knoppix/index-en.html
+Options=300333300003300110300001000
+anonymous=1
+
+[Default Sites Operating Systems BSD Distributions OpenBSD]
+Created=38188.0118534607
+IP=ftp.openbsd.org
+Port=21
+LocalPath=/pub/
+Options=300333300003300110300001000
+anonymous=1
+
+[Default Sites Operating Systems BSD Distributions NetBSD]
+IP=ftp.netbsd.org
+Port=21
+User=anonymous
+anonymous=1
+Options=300333300003300110300001000
+Created=38188.0124185069
+Pass=
+Path=/pub/
+
+[Default Sites Operating Systems BSD Distributions DragonFly BSD]
+IP=ftp.dragonflybsd.org
+Port=21
+anonymous=1
+Options=300333300003300110300001000
+Created=38188.0251934722
+Notes=http://www.dragonflybsd.org/
+
+[Default Sites Operating Systems Linux Distributions Yellow Dog Linux]
+IP=ftp.yellowdoglinux.com
+Port=21
+User=anonymous
+anonymous=1
+Path=/
+Options=300333300003300110300001000
+Created=38188.0281104051
+Pass=
+
+[Default Sites Miscellaneous Sites RSA Data Security]
+IP=ftp.rsa.com
+anonymous=1
+Port=21
+Path=
+
+[Default Sites Miscellaneous Sites Optimum Online Speed Test]
+IP=ftp1.optonline.net
+Port=21
+anonymous=1
+Path=/pub/
+Options=300333300003300110300001000
+Created=38189.8857726736
+Notes=Test your internet connection speed.Very fast site with sample downloads.
+
+[Default Sites Operating Systems Linux Distributions Mandrake]
+IP=mirrors.secsup.org
+Port=21
+User=anonymous
+anonymous=1
+Path=/pub/linux/mandrakelinux/official/iso/10.0/i586
+Options=300333300003300110300001000
+Created=38190.7937697454
+Pass=
+
+[Default Sites Miscellaneous Sites Borland Delphi]
+Created=38197.0496620718
+IP=ftp.borland.com
+Port=21
+Path=/pub/delphi/
+Options=300333300003300110300001000
+anonymous=1
+Notes=Delphi technical papers, code samples, and updates.
+
+[Default Sites Miscellaneous Sites The Usenet Oracle (Funny!)]
+IP=ftp.cs.indiana.edu
+Port=21
+anonymous=1
+Path=/pub/oracle/
+Options=300333300003300110300001000
+Created=38197.0652803588
+Notes=The Usenet Oracle answers all your questions!(Now known as The Internet Oracle)http://www.cs.indiana.edu/~oracle/
+
+[Default Sites Miscellaneous Sites Demon UK]
+Created=38197.0995308796
+IP=ftp.demon.co.uk
+Port=21
+Path=/pub/
+Options=300333300003300110300001000
+anonymous=1
+Notes=Lots of stuff.
+
+[Default Sites Miscellaneous Sites American Radio Relay League]
+Created=38197.1012257986
+IP=ftp.arrl.org
+Port=21
+Path=/pub/
+Options=300333300003300110300001000
+anonymous=1
+
+[Default Sites Commercial Sites Microsoft]
+created=38881.6273603819
+Proxy=0
+IP=ftp.microsoft.com
+port=21
+DSL=25
+USL=25
+options=30033330000330011030000100033330000
+anonymous=1
+TZ=-1
+
+[Default Sites Commercial Sites Adobe]
+created=38881.6413051505
+Proxy=0
+IP=ftp.adobe.com
+port=21
+DSL=25
+USL=25
+options=30033330000330011030000100033330000
+TZ=-1
+anonymous=1
+path=/
+notes=Home of Adobe Acrobat
+
+[Default Sites Game Sites Microprose]
+created=38881.6692766204
+Proxy=0
+IP=ftp.microprose.com
+port=21
+DSL=25
+USL=25
+options=30033330000330011030000100033330000
+anonymous=1
+TZ=-1
+
+[Default Sites Game Sites Sega Games]
+created=38881.6863962963
+Proxy=0
+IP=segapr.segaamerica.com
+port=21
+DSL=25
+USL=25
+options=30033330000330011030000100033330000
+anonymous=1
+TZ=-1
+
